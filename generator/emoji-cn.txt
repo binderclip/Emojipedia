@@ -2360,264 +2360,264 @@
 2360	U+1F3F4	🏴	black flag	waving
 2361	U+1F3F3	🏳	white flag	waving
 2362	U+1F3F3 U+FE0F U+200D U+1F308	🏳️‍🌈	rainbow flag	rainbow
-2363	U+1F1E6 U+1F1E8	🇦🇨	Ascension Island	flag
-2364	U+1F1E6 U+1F1E9	🇦🇩	Andorra	flag
-2365	U+1F1E6 U+1F1EA	🇦🇪	United Arab Emirates	flag
-2366	U+1F1E6 U+1F1EB	🇦🇫	Afghanistan	flag
-2367	U+1F1E6 U+1F1EC	🇦🇬	Antigua & Barbuda	flag
-2368	U+1F1E6 U+1F1EE	🇦🇮	Anguilla	flag
-2369	U+1F1E6 U+1F1F1	🇦🇱	Albania	flag
-2370	U+1F1E6 U+1F1F2	🇦🇲	Armenia	flag
-2371	U+1F1E6 U+1F1F4	🇦🇴	Angola	flag
-2372	U+1F1E6 U+1F1F6	🇦🇶	Antarctica	flag
-2373	U+1F1E6 U+1F1F7	🇦🇷	Argentina	flag
-2374	U+1F1E6 U+1F1F8	🇦🇸	American Samoa	flag
-2375	U+1F1E6 U+1F1F9	🇦🇹	Austria	flag
-2376	U+1F1E6 U+1F1FA	🇦🇺	Australia	flag
-2377	U+1F1E6 U+1F1FC	🇦🇼	Aruba	flag
-2378	U+1F1E6 U+1F1FD	🇦🇽	Åland Islands	flag
-2379	U+1F1E6 U+1F1FF	🇦🇿	Azerbaijan	flag
-2380	U+1F1E7 U+1F1E6	🇧🇦	Bosnia & Herzegovina	flag
-2381	U+1F1E7 U+1F1E7	🇧🇧	Barbados	flag
-2382	U+1F1E7 U+1F1E9	🇧🇩	Bangladesh	flag
-2383	U+1F1E7 U+1F1EA	🇧🇪	Belgium	flag
-2384	U+1F1E7 U+1F1EB	🇧🇫	Burkina Faso	flag
-2385	U+1F1E7 U+1F1EC	🇧🇬	Bulgaria	flag
-2386	U+1F1E7 U+1F1ED	🇧🇭	Bahrain	flag
-2387	U+1F1E7 U+1F1EE	🇧🇮	Burundi	flag
-2388	U+1F1E7 U+1F1EF	🇧🇯	Benin	flag
-2389	U+1F1E7 U+1F1F1	🇧🇱	St. Barthélemy	flag
-2390	U+1F1E7 U+1F1F2	🇧🇲	Bermuda	flag
-2391	U+1F1E7 U+1F1F3	🇧🇳	Brunei	flag
-2392	U+1F1E7 U+1F1F4	🇧🇴	Bolivia	flag
-2393	U+1F1E7 U+1F1F6	🇧🇶	Caribbean Netherlands	flag
-2394	U+1F1E7 U+1F1F7	🇧🇷	Brazil	flag
-2395	U+1F1E7 U+1F1F8	🇧🇸	Bahamas	flag
-2396	U+1F1E7 U+1F1F9	🇧🇹	Bhutan	flag
-2397	U+1F1E7 U+1F1FB	🇧🇻	Bouvet Island	flag
-2398	U+1F1E7 U+1F1FC	🇧🇼	Botswana	flag
-2399	U+1F1E7 U+1F1FE	🇧🇾	Belarus	flag
-2400	U+1F1E7 U+1F1FF	🇧🇿	Belize	flag
-2401	U+1F1E8 U+1F1E6	🇨🇦	Canada	flag
-2402	U+1F1E8 U+1F1E8	🇨🇨	Cocos (Keeling) Islands	flag
-2403	U+1F1E8 U+1F1E9	🇨🇩	Congo - Kinshasa	flag
-2404	U+1F1E8 U+1F1EB	🇨🇫	Central African Republic	flag
-2405	U+1F1E8 U+1F1EC	🇨🇬	Congo - Brazzaville	flag
-2406	U+1F1E8 U+1F1ED	🇨🇭	Switzerland	flag
-2407	U+1F1E8 U+1F1EE	🇨🇮	Côte d’Ivoire	flag
-2408	U+1F1E8 U+1F1F0	🇨🇰	Cook Islands	flag
-2409	U+1F1E8 U+1F1F1	🇨🇱	Chile	flag
-2410	U+1F1E8 U+1F1F2	🇨🇲	Cameroon	flag
-2411	U+1F1E8 U+1F1F3	🇨🇳	China	flag
-2412	U+1F1E8 U+1F1F4	🇨🇴	Colombia	flag
-2413	U+1F1E8 U+1F1F5	🇨🇵	Clipperton Island	flag
-2414	U+1F1E8 U+1F1F7	🇨🇷	Costa Rica	flag
-2415	U+1F1E8 U+1F1FA	🇨🇺	Cuba	flag
-2416	U+1F1E8 U+1F1FB	🇨🇻	Cape Verde	flag
-2417	U+1F1E8 U+1F1FC	🇨🇼	Curaçao	flag
-2418	U+1F1E8 U+1F1FD	🇨🇽	Christmas Island	flag
-2419	U+1F1E8 U+1F1FE	🇨🇾	Cyprus	flag
-2420	U+1F1E8 U+1F1FF	🇨🇿	Czechia	flag
-2421	U+1F1E9 U+1F1EA	🇩🇪	Germany	flag
-2422	U+1F1E9 U+1F1EC	🇩🇬	Diego Garcia	flag
-2423	U+1F1E9 U+1F1EF	🇩🇯	Djibouti	flag
-2424	U+1F1E9 U+1F1F0	🇩🇰	Denmark	flag
-2425	U+1F1E9 U+1F1F2	🇩🇲	Dominica	flag
-2426	U+1F1E9 U+1F1F4	🇩🇴	Dominican Republic	flag
-2427	U+1F1E9 U+1F1FF	🇩🇿	Algeria	flag
-2428	U+1F1EA U+1F1E6	🇪🇦	Ceuta & Melilla	flag
-2429	U+1F1EA U+1F1E8	🇪🇨	Ecuador	flag
-2430	U+1F1EA U+1F1EA	🇪🇪	Estonia	flag
-2431	U+1F1EA U+1F1EC	🇪🇬	Egypt	flag
-2432	U+1F1EA U+1F1ED	🇪🇭	Western Sahara	flag
-2433	U+1F1EA U+1F1F7	🇪🇷	Eritrea	flag
-2434	U+1F1EA U+1F1F8	🇪🇸	Spain	flag
-2435	U+1F1EA U+1F1F9	🇪🇹	Ethiopia	flag
-2436	U+1F1EA U+1F1FA	🇪🇺	European Union	flag
-2437	U+1F1EB U+1F1EE	🇫🇮	Finland	flag
-2438	U+1F1EB U+1F1EF	🇫🇯	Fiji	flag
-2439	U+1F1EB U+1F1F0	🇫🇰	Falkland Islands	flag
-2440	U+1F1EB U+1F1F2	🇫🇲	Micronesia	flag
-2441	U+1F1EB U+1F1F4	🇫🇴	Faroe Islands	flag
-2442	U+1F1EB U+1F1F7	🇫🇷	France	flag
-2443	U+1F1EC U+1F1E6	🇬🇦	Gabon	flag
-2444	U+1F1EC U+1F1E7	🇬🇧	United Kingdom	flag
-2445	U+1F1EC U+1F1E9	🇬🇩	Grenada	flag
-2446	U+1F1EC U+1F1EA	🇬🇪	Georgia	flag
-2447	U+1F1EC U+1F1EB	🇬🇫	French Guiana	flag
-2448	U+1F1EC U+1F1EC	🇬🇬	Guernsey	flag
-2449	U+1F1EC U+1F1ED	🇬🇭	Ghana	flag
-2450	U+1F1EC U+1F1EE	🇬🇮	Gibraltar	flag
-2451	U+1F1EC U+1F1F1	🇬🇱	Greenland	flag
-2452	U+1F1EC U+1F1F2	🇬🇲	Gambia	flag
-2453	U+1F1EC U+1F1F3	🇬🇳	Guinea	flag
-2454	U+1F1EC U+1F1F5	🇬🇵	Guadeloupe	flag
-2455	U+1F1EC U+1F1F6	🇬🇶	Equatorial Guinea	flag
-2456	U+1F1EC U+1F1F7	🇬🇷	Greece	flag
-2457	U+1F1EC U+1F1F8	🇬🇸	South Georgia & South Sandwich Islands	flag
-2458	U+1F1EC U+1F1F9	🇬🇹	Guatemala	flag
-2459	U+1F1EC U+1F1FA	🇬🇺	Guam	flag
-2460	U+1F1EC U+1F1FC	🇬🇼	Guinea-Bissau	flag
-2461	U+1F1EC U+1F1FE	🇬🇾	Guyana	flag
-2462	U+1F1ED U+1F1F0	🇭🇰	Hong Kong SAR China	flag
-2463	U+1F1ED U+1F1F2	🇭🇲	Heard & McDonald Islands	flag
-2464	U+1F1ED U+1F1F3	🇭🇳	Honduras	flag
-2465	U+1F1ED U+1F1F7	🇭🇷	Croatia	flag
-2466	U+1F1ED U+1F1F9	🇭🇹	Haiti	flag
-2467	U+1F1ED U+1F1FA	🇭🇺	Hungary	flag
-2468	U+1F1EE U+1F1E8	🇮🇨	Canary Islands	flag
-2469	U+1F1EE U+1F1E9	🇮🇩	Indonesia	flag
-2470	U+1F1EE U+1F1EA	🇮🇪	Ireland	flag
-2471	U+1F1EE U+1F1F1	🇮🇱	Israel	flag
-2472	U+1F1EE U+1F1F2	🇮🇲	Isle of Man	flag
-2473	U+1F1EE U+1F1F3	🇮🇳	India	flag
-2474	U+1F1EE U+1F1F4	🇮🇴	British Indian Ocean Territory	flag
-2475	U+1F1EE U+1F1F6	🇮🇶	Iraq	flag
-2476	U+1F1EE U+1F1F7	🇮🇷	Iran	flag
-2477	U+1F1EE U+1F1F8	🇮🇸	Iceland	flag
-2478	U+1F1EE U+1F1F9	🇮🇹	Italy	flag
-2479	U+1F1EF U+1F1EA	🇯🇪	Jersey	flag
-2480	U+1F1EF U+1F1F2	🇯🇲	Jamaica	flag
-2481	U+1F1EF U+1F1F4	🇯🇴	Jordan	flag
-2482	U+1F1EF U+1F1F5	🇯🇵	Japan	flag
-2483	U+1F1F0 U+1F1EA	🇰🇪	Kenya	flag
-2484	U+1F1F0 U+1F1EC	🇰🇬	Kyrgyzstan	flag
-2485	U+1F1F0 U+1F1ED	🇰🇭	Cambodia	flag
-2486	U+1F1F0 U+1F1EE	🇰🇮	Kiribati	flag
-2487	U+1F1F0 U+1F1F2	🇰🇲	Comoros	flag
-2488	U+1F1F0 U+1F1F3	🇰🇳	St. Kitts & Nevis	flag
-2489	U+1F1F0 U+1F1F5	🇰🇵	North Korea	flag
-2490	U+1F1F0 U+1F1F7	🇰🇷	South Korea	flag
-2491	U+1F1F0 U+1F1FC	🇰🇼	Kuwait	flag
-2492	U+1F1F0 U+1F1FE	🇰🇾	Cayman Islands	flag
-2493	U+1F1F0 U+1F1FF	🇰🇿	Kazakhstan	flag
-2494	U+1F1F1 U+1F1E6	🇱🇦	Laos	flag
-2495	U+1F1F1 U+1F1E7	🇱🇧	Lebanon	flag
-2496	U+1F1F1 U+1F1E8	🇱🇨	St. Lucia	flag
-2497	U+1F1F1 U+1F1EE	🇱🇮	Liechtenstein	flag
-2498	U+1F1F1 U+1F1F0	🇱🇰	Sri Lanka	flag
-2499	U+1F1F1 U+1F1F7	🇱🇷	Liberia	flag
-2500	U+1F1F1 U+1F1F8	🇱🇸	Lesotho	flag
-2501	U+1F1F1 U+1F1F9	🇱🇹	Lithuania	flag
-2502	U+1F1F1 U+1F1FA	🇱🇺	Luxembourg	flag
-2503	U+1F1F1 U+1F1FB	🇱🇻	Latvia	flag
-2504	U+1F1F1 U+1F1FE	🇱🇾	Libya	flag
-2505	U+1F1F2 U+1F1E6	🇲🇦	Morocco	flag
-2506	U+1F1F2 U+1F1E8	🇲🇨	Monaco	flag
-2507	U+1F1F2 U+1F1E9	🇲🇩	Moldova	flag
-2508	U+1F1F2 U+1F1EA	🇲🇪	Montenegro	flag
-2509	U+1F1F2 U+1F1EB	🇲🇫	St. Martin	flag
-2510	U+1F1F2 U+1F1EC	🇲🇬	Madagascar	flag
-2511	U+1F1F2 U+1F1ED	🇲🇭	Marshall Islands	flag
-2512	U+1F1F2 U+1F1F0	🇲🇰	Macedonia	flag
-2513	U+1F1F2 U+1F1F1	🇲🇱	Mali	flag
-2514	U+1F1F2 U+1F1F2	🇲🇲	Myanmar (Burma)	flag
-2515	U+1F1F2 U+1F1F3	🇲🇳	Mongolia	flag
-2516	U+1F1F2 U+1F1F4	🇲🇴	Macau SAR China	flag
-2517	U+1F1F2 U+1F1F5	🇲🇵	Northern Mariana Islands	flag
-2518	U+1F1F2 U+1F1F6	🇲🇶	Martinique	flag
-2519	U+1F1F2 U+1F1F7	🇲🇷	Mauritania	flag
-2520	U+1F1F2 U+1F1F8	🇲🇸	Montserrat	flag
-2521	U+1F1F2 U+1F1F9	🇲🇹	Malta	flag
-2522	U+1F1F2 U+1F1FA	🇲🇺	Mauritius	flag
-2523	U+1F1F2 U+1F1FB	🇲🇻	Maldives	flag
-2524	U+1F1F2 U+1F1FC	🇲🇼	Malawi	flag
-2525	U+1F1F2 U+1F1FD	🇲🇽	Mexico	flag
-2526	U+1F1F2 U+1F1FE	🇲🇾	Malaysia	flag
-2527	U+1F1F2 U+1F1FF	🇲🇿	Mozambique	flag
-2528	U+1F1F3 U+1F1E6	🇳🇦	Namibia	flag
-2529	U+1F1F3 U+1F1E8	🇳🇨	New Caledonia	flag
-2530	U+1F1F3 U+1F1EA	🇳🇪	Niger	flag
-2531	U+1F1F3 U+1F1EB	🇳🇫	Norfolk Island	flag
-2532	U+1F1F3 U+1F1EC	🇳🇬	Nigeria	flag
-2533	U+1F1F3 U+1F1EE	🇳🇮	Nicaragua	flag
-2534	U+1F1F3 U+1F1F1	🇳🇱	Netherlands	flag
-2535	U+1F1F3 U+1F1F4	🇳🇴	Norway	flag
-2536	U+1F1F3 U+1F1F5	🇳🇵	Nepal	flag
-2537	U+1F1F3 U+1F1F7	🇳🇷	Nauru	flag
-2538	U+1F1F3 U+1F1FA	🇳🇺	Niue	flag
-2539	U+1F1F3 U+1F1FF	🇳🇿	New Zealand	flag
-2540	U+1F1F4 U+1F1F2	🇴🇲	Oman	flag
-2541	U+1F1F5 U+1F1E6	🇵🇦	Panama	flag
-2542	U+1F1F5 U+1F1EA	🇵🇪	Peru	flag
-2543	U+1F1F5 U+1F1EB	🇵🇫	French Polynesia	flag
-2544	U+1F1F5 U+1F1EC	🇵🇬	Papua New Guinea	flag
-2545	U+1F1F5 U+1F1ED	🇵🇭	Philippines	flag
-2546	U+1F1F5 U+1F1F0	🇵🇰	Pakistan	flag
-2547	U+1F1F5 U+1F1F1	🇵🇱	Poland	flag
-2548	U+1F1F5 U+1F1F2	🇵🇲	St. Pierre & Miquelon	flag
-2549	U+1F1F5 U+1F1F3	🇵🇳	Pitcairn Islands	flag
-2550	U+1F1F5 U+1F1F7	🇵🇷	Puerto Rico	flag
-2551	U+1F1F5 U+1F1F8	🇵🇸	Palestinian Territories	flag
-2552	U+1F1F5 U+1F1F9	🇵🇹	Portugal	flag
-2553	U+1F1F5 U+1F1FC	🇵🇼	Palau	flag
-2554	U+1F1F5 U+1F1FE	🇵🇾	Paraguay	flag
-2555	U+1F1F6 U+1F1E6	🇶🇦	Qatar	flag
-2556	U+1F1F7 U+1F1EA	🇷🇪	Réunion	flag
-2557	U+1F1F7 U+1F1F4	🇷🇴	Romania	flag
-2558	U+1F1F7 U+1F1F8	🇷🇸	Serbia	flag
-2559	U+1F1F7 U+1F1FA	🇷🇺	Russia	flag
-2560	U+1F1F7 U+1F1FC	🇷🇼	Rwanda	flag
-2561	U+1F1F8 U+1F1E6	🇸🇦	Saudi Arabia	flag
-2562	U+1F1F8 U+1F1E7	🇸🇧	Solomon Islands	flag
-2563	U+1F1F8 U+1F1E8	🇸🇨	Seychelles	flag
-2564	U+1F1F8 U+1F1E9	🇸🇩	Sudan	flag
-2565	U+1F1F8 U+1F1EA	🇸🇪	Sweden	flag
-2566	U+1F1F8 U+1F1EC	🇸🇬	Singapore	flag
-2567	U+1F1F8 U+1F1ED	🇸🇭	St. Helena	flag
-2568	U+1F1F8 U+1F1EE	🇸🇮	Slovenia	flag
-2569	U+1F1F8 U+1F1EF	🇸🇯	Svalbard & Jan Mayen	flag
-2570	U+1F1F8 U+1F1F0	🇸🇰	Slovakia	flag
-2571	U+1F1F8 U+1F1F1	🇸🇱	Sierra Leone	flag
-2572	U+1F1F8 U+1F1F2	🇸🇲	San Marino	flag
-2573	U+1F1F8 U+1F1F3	🇸🇳	Senegal	flag
-2574	U+1F1F8 U+1F1F4	🇸🇴	Somalia	flag
-2575	U+1F1F8 U+1F1F7	🇸🇷	Suriname	flag
-2576	U+1F1F8 U+1F1F8	🇸🇸	South Sudan	flag
-2577	U+1F1F8 U+1F1F9	🇸🇹	São Tomé & Príncipe	flag
-2578	U+1F1F8 U+1F1FB	🇸🇻	El Salvador	flag
-2579	U+1F1F8 U+1F1FD	🇸🇽	Sint Maarten	flag
-2580	U+1F1F8 U+1F1FE	🇸🇾	Syria	flag
-2581	U+1F1F8 U+1F1FF	🇸🇿	Swaziland	flag
-2582	U+1F1F9 U+1F1E6	🇹🇦	Tristan da Cunha	flag
-2583	U+1F1F9 U+1F1E8	🇹🇨	Turks & Caicos Islands	flag
-2584	U+1F1F9 U+1F1E9	🇹🇩	Chad	flag
-2585	U+1F1F9 U+1F1EB	🇹🇫	French Southern Territories	flag
-2586	U+1F1F9 U+1F1EC	🇹🇬	Togo	flag
-2587	U+1F1F9 U+1F1ED	🇹🇭	Thailand	flag
-2588	U+1F1F9 U+1F1EF	🇹🇯	Tajikistan	flag
-2589	U+1F1F9 U+1F1F0	🇹🇰	Tokelau	flag
-2590	U+1F1F9 U+1F1F1	🇹🇱	Timor-Leste	flag
-2591	U+1F1F9 U+1F1F2	🇹🇲	Turkmenistan	flag
-2592	U+1F1F9 U+1F1F3	🇹🇳	Tunisia	flag
-2593	U+1F1F9 U+1F1F4	🇹🇴	Tonga	flag
-2594	U+1F1F9 U+1F1F7	🇹🇷	Turkey	flag
-2595	U+1F1F9 U+1F1F9	🇹🇹	Trinidad & Tobago	flag
-2596	U+1F1F9 U+1F1FB	🇹🇻	Tuvalu	flag
-2597	U+1F1F9 U+1F1FC	🇹🇼	Taiwan	flag
-2598	U+1F1F9 U+1F1FF	🇹🇿	Tanzania	flag
-2599	U+1F1FA U+1F1E6	🇺🇦	Ukraine	flag
-2600	U+1F1FA U+1F1EC	🇺🇬	Uganda	flag
-2601	U+1F1FA U+1F1F2	🇺🇲	U.S. Outlying Islands	flag
-2602	U+1F1FA U+1F1F3	🇺🇳	United Nations	flag
-2603	U+1F1FA U+1F1F8	🇺🇸	United States	flag
-2604	U+1F1FA U+1F1FE	🇺🇾	Uruguay	flag
-2605	U+1F1FA U+1F1FF	🇺🇿	Uzbekistan	flag
-2606	U+1F1FB U+1F1E6	🇻🇦	Vatican City	flag
-2607	U+1F1FB U+1F1E8	🇻🇨	St. Vincent & Grenadines	flag
-2608	U+1F1FB U+1F1EA	🇻🇪	Venezuela	flag
-2609	U+1F1FB U+1F1EC	🇻🇬	British Virgin Islands	flag
-2610	U+1F1FB U+1F1EE	🇻🇮	U.S. Virgin Islands	flag
-2611	U+1F1FB U+1F1F3	🇻🇳	Vietnam	flag
-2612	U+1F1FB U+1F1FA	🇻🇺	Vanuatu	flag
-2613	U+1F1FC U+1F1EB	🇼🇫	Wallis & Futuna	flag
-2614	U+1F1FC U+1F1F8	🇼🇸	Samoa	flag
-2615	U+1F1FD U+1F1F0	🇽🇰	Kosovo	flag
-2616	U+1F1FE U+1F1EA	🇾🇪	Yemen	flag
-2617	U+1F1FE U+1F1F9	🇾🇹	Mayotte	flag
-2618	U+1F1FF U+1F1E6	🇿🇦	South Africa	flag
-2619	U+1F1FF U+1F1F2	🇿🇲	Zambia	flag
-2620	U+1F1FF U+1F1FC	🇿🇼	Zimbabwe	flag
-2621	U+1F3F4 U+E0067 U+E0062 U+E0065 U+E006E U+E0067 U+E007F	🏴󠁧󠁢󠁥󠁮󠁧󠁿	England	flag
-2622	U+1F3F4 U+E0067 U+E0062 U+E0073 U+E0063 U+E0074 U+E007F	🏴󠁧󠁢󠁳󠁣󠁴󠁿	Scotland	flag
-2623	U+1F3F4 U+E0067 U+E0062 U+E0077 U+E006C U+E0073 U+E007F	🏴󠁧󠁢󠁷󠁬󠁳󠁿	Wales	flag
+2363	U+1F1E6 U+1F1E8	🇦🇨	阿森松岛	旗
+2364	U+1F1E6 U+1F1E9	🇦🇩	安道尔	旗
+2365	U+1F1E6 U+1F1EA	🇦🇪	阿联酋	旗
+2366	U+1F1E6 U+1F1EB	🇦🇫	阿富汗	旗
+2367	U+1F1E6 U+1F1EC	🇦🇬	安提瓜岛和巴布达	旗
+2368	U+1F1E6 U+1F1EE	🇦🇮	安圭拉	旗
+2369	U+1F1E6 U+1F1F1	🇦🇱	阿尔巴尼亚	旗
+2370	U+1F1E6 U+1F1F2	🇦🇲	亚美尼亚	旗
+2371	U+1F1E6 U+1F1F4	🇦🇴	安哥拉	旗
+2372	U+1F1E6 U+1F1F6	🇦🇶	南极洲	旗
+2373	U+1F1E6 U+1F1F7	🇦🇷	阿根廷	旗
+2374	U+1F1E6 U+1F1F8	🇦🇸	美属萨摩亚	旗
+2375	U+1F1E6 U+1F1F9	🇦🇹	奥地利	旗
+2376	U+1F1E6 U+1F1FA	🇦🇺	澳大利亚	旗
+2377	U+1F1E6 U+1F1FC	🇦🇼	阿鲁巴	旗
+2378	U+1F1E6 U+1F1FD	🇦🇽	奥兰群岛	旗
+2379	U+1F1E6 U+1F1FF	🇦🇿	阿塞拜疆	旗
+2380	U+1F1E7 U+1F1E6	🇧🇦	波斯尼亚和黑塞哥维那	旗
+2381	U+1F1E7 U+1F1E7	🇧🇧	巴巴多斯	旗
+2382	U+1F1E7 U+1F1E9	🇧🇩	孟加拉	旗
+2383	U+1F1E7 U+1F1EA	🇧🇪	比利时	旗
+2384	U+1F1E7 U+1F1EB	🇧🇫	布基纳法索	旗
+2385	U+1F1E7 U+1F1EC	🇧🇬	保加利亚	旗
+2386	U+1F1E7 U+1F1ED	🇧🇭	巴林	旗
+2387	U+1F1E7 U+1F1EE	🇧🇮	蒲隆地	旗
+2388	U+1F1E7 U+1F1EF	🇧🇯	贝宁	旗
+2389	U+1F1E7 U+1F1F1	🇧🇱	圣巴特尔米	旗
+2390	U+1F1E7 U+1F1F2	🇧🇲	百慕大	旗
+2391	U+1F1E7 U+1F1F3	🇧🇳	文莱	旗
+2392	U+1F1E7 U+1F1F4	🇧🇴	玻利维亚	旗
+2393	U+1F1E7 U+1F1F6	🇧🇶	荷兰加勒比区	旗
+2394	U+1F1E7 U+1F1F7	🇧🇷	巴西	旗
+2395	U+1F1E7 U+1F1F8	🇧🇸	巴哈马	旗
+2396	U+1F1E7 U+1F1F9	🇧🇹	不丹	旗
+2397	U+1F1E7 U+1F1FB	🇧🇻	布维岛	旗
+2398	U+1F1E7 U+1F1FC	🇧🇼	博茨瓦纳	旗
+2399	U+1F1E7 U+1F1FE	🇧🇾	白俄罗斯	旗
+2400	U+1F1E7 U+1F1FF	🇧🇿	伯利兹	旗
+2401	U+1F1E8 U+1F1E6	🇨🇦	加拿大	旗
+2402	U+1F1E8 U+1F1E8	🇨🇨	科科斯（基林）群岛	旗
+2403	U+1F1E8 U+1F1E9	🇨🇩	刚果金沙萨	旗
+2404	U+1F1E8 U+1F1EB	🇨🇫	中非共和国	旗
+2405	U+1F1E8 U+1F1EC	🇨🇬	刚果布拉柴维尔	旗
+2406	U+1F1E8 U+1F1ED	🇨🇭	瑞士	旗
+2407	U+1F1E8 U+1F1EE	🇨🇮	科特迪瓦	旗
+2408	U+1F1E8 U+1F1F0	🇨🇰	库克群岛	旗
+2409	U+1F1E8 U+1F1F1	🇨🇱	智利	旗
+2410	U+1F1E8 U+1F1F2	🇨🇲	喀麦隆	旗
+2411	U+1F1E8 U+1F1F3	🇨🇳	中国	旗
+2412	U+1F1E8 U+1F1F4	🇨🇴	哥伦比亚	旗
+2413	U+1F1E8 U+1F1F5	🇨🇵	克利珀顿岛	旗
+2414	U+1F1E8 U+1F1F7	🇨🇷	哥斯达黎加	旗
+2415	U+1F1E8 U+1F1FA	🇨🇺	古巴	旗
+2416	U+1F1E8 U+1F1FB	🇨🇻	佛得角	旗
+2417	U+1F1E8 U+1F1FC	🇨🇼	库拉索岛	旗
+2418	U+1F1E8 U+1F1FD	🇨🇽	圣诞岛	旗
+2419	U+1F1E8 U+1F1FE	🇨🇾	塞浦路斯	旗
+2420	U+1F1E8 U+1F1FF	🇨🇿	捷克	旗
+2421	U+1F1E9 U+1F1EA	🇩🇪	德国	旗
+2422	U+1F1E9 U+1F1EC	🇩🇬	迪戈加西亚岛	旗
+2423	U+1F1E9 U+1F1EF	🇩🇯	吉布提	旗
+2424	U+1F1E9 U+1F1F0	🇩🇰	丹麦	旗
+2425	U+1F1E9 U+1F1F2	🇩🇲	多米尼克	旗
+2426	U+1F1E9 U+1F1F4	🇩🇴	多米尼加共和国	旗
+2427	U+1F1E9 U+1F1FF	🇩🇿	阿尔及利亚	旗
+2428	U+1F1EA U+1F1E6	🇪🇦	的休达和梅利利亚	旗
+2429	U+1F1EA U+1F1E8	🇪🇨	休达和梅利利亚	旗
+2430	U+1F1EA U+1F1EA	🇪🇪	爱沙尼亚	旗
+2431	U+1F1EA U+1F1EC	🇪🇬	埃及	旗
+2432	U+1F1EA U+1F1ED	🇪🇭	西撒哈拉	旗
+2433	U+1F1EA U+1F1F7	🇪🇷	厄立特里亚	旗
+2434	U+1F1EA U+1F1F8	🇪🇸	西班牙	旗
+2435	U+1F1EA U+1F1F9	🇪🇹	埃塞俄比亚	旗
+2436	U+1F1EA U+1F1FA	🇪🇺	欧盟	旗
+2437	U+1F1EB U+1F1EE	🇫🇮	芬兰	旗
+2438	U+1F1EB U+1F1EF	🇫🇯	斐济	旗
+2439	U+1F1EB U+1F1F0	🇫🇰	福克兰群岛	旗
+2440	U+1F1EB U+1F1F2	🇫🇲	密克罗尼西亚	旗
+2441	U+1F1EB U+1F1F4	🇫🇴	法罗群岛	旗
+2442	U+1F1EB U+1F1F7	🇫🇷	法国	旗
+2443	U+1F1EC U+1F1E6	🇬🇦	加蓬	旗
+2444	U+1F1EC U+1F1E7	🇬🇧	英国	旗
+2445	U+1F1EC U+1F1E9	🇬🇩	格林纳达	旗
+2446	U+1F1EC U+1F1EA	🇬🇪	格鲁吉亚	旗
+2447	U+1F1EC U+1F1EB	🇬🇫	法属圭亚那	旗
+2448	U+1F1EC U+1F1EC	🇬🇬	根西岛	旗
+2449	U+1F1EC U+1F1ED	🇬🇭	加纳	旗
+2450	U+1F1EC U+1F1EE	🇬🇮	直布罗陀	旗
+2451	U+1F1EC U+1F1F1	🇬🇱	格陵兰	旗
+2452	U+1F1EC U+1F1F2	🇬🇲	冈比亚	旗
+2453	U+1F1EC U+1F1F3	🇬🇳	几内亚	旗
+2454	U+1F1EC U+1F1F5	🇬🇵	瓜德罗普岛	旗
+2455	U+1F1EC U+1F1F6	🇬🇶	赤道几内亚	旗
+2456	U+1F1EC U+1F1F7	🇬🇷	希腊	旗
+2457	U+1F1EC U+1F1F8	🇬🇸	南乔治亚岛和南桑威奇群岛	旗
+2458	U+1F1EC U+1F1F9	🇬🇹	危地马拉	旗
+2459	U+1F1EC U+1F1FA	🇬🇺	关岛	旗
+2460	U+1F1EC U+1F1FC	🇬🇼	几内亚比绍	旗
+2461	U+1F1EC U+1F1FE	🇬🇾	圭亚那	旗
+2462	U+1F1ED U+1F1F0	🇭🇰	中国香港特别行政区	旗
+2463	U+1F1ED U+1F1F2	🇭🇲	赫德与麦当劳群岛	旗
+2464	U+1F1ED U+1F1F3	🇭🇳	洪都拉斯	旗
+2465	U+1F1ED U+1F1F7	🇭🇷	克罗地亚	旗
+2466	U+1F1ED U+1F1F9	🇭🇹	海地	旗
+2467	U+1F1ED U+1F1FA	🇭🇺	匈牙利	旗
+2468	U+1F1EE U+1F1E8	🇮🇨	加那利群岛	旗
+2469	U+1F1EE U+1F1E9	🇮🇩	印度尼西亚	旗
+2470	U+1F1EE U+1F1EA	🇮🇪	爱尔兰	旗
+2471	U+1F1EE U+1F1F1	🇮🇱	以色列	旗
+2472	U+1F1EE U+1F1F2	🇮🇲	马恩岛	旗
+2473	U+1F1EE U+1F1F3	🇮🇳	印度	旗
+2474	U+1F1EE U+1F1F4	🇮🇴	英属印度洋领地	旗
+2475	U+1F1EE U+1F1F6	🇮🇶	伊拉克	旗
+2476	U+1F1EE U+1F1F7	🇮🇷	伊朗	旗
+2477	U+1F1EE U+1F1F8	🇮🇸	冰岛	旗
+2478	U+1F1EE U+1F1F9	🇮🇹	意大利	旗
+2479	U+1F1EF U+1F1EA	🇯🇪	新泽西	旗
+2480	U+1F1EF U+1F1F2	🇯🇲	牙买加	旗
+2481	U+1F1EF U+1F1F4	🇯🇴	约旦	旗
+2482	U+1F1EF U+1F1F5	🇯🇵	日本	旗
+2483	U+1F1F0 U+1F1EA	🇰🇪	肯尼亚	旗
+2484	U+1F1F0 U+1F1EC	🇰🇬	吉尔吉斯斯坦	旗
+2485	U+1F1F0 U+1F1ED	🇰🇭	柬埔寨	旗
+2486	U+1F1F0 U+1F1EE	🇰🇮	基里巴斯	旗
+2487	U+1F1F0 U+1F1F2	🇰🇲	科摩罗	旗
+2488	U+1F1F0 U+1F1F3	🇰🇳	圣基茨和尼维斯	旗
+2489	U+1F1F0 U+1F1F5	🇰🇵	北朝鲜	旗
+2490	U+1F1F0 U+1F1F7	🇰🇷	韩国	旗
+2491	U+1F1F0 U+1F1FC	🇰🇼	科威特	旗
+2492	U+1F1F0 U+1F1FE	🇰🇾	开曼群岛	旗
+2493	U+1F1F0 U+1F1FF	🇰🇿	哈萨克斯坦	旗
+2494	U+1F1F1 U+1F1E6	🇱🇦	老挝	旗
+2495	U+1F1F1 U+1F1E7	🇱🇧	黎巴嫩	旗
+2496	U+1F1F1 U+1F1E8	🇱🇨	圣卢西亚	旗
+2497	U+1F1F1 U+1F1EE	🇱🇮	列支敦士登	旗
+2498	U+1F1F1 U+1F1F0	🇱🇰	斯里兰卡	旗
+2499	U+1F1F1 U+1F1F7	🇱🇷	利比里亚	旗
+2500	U+1F1F1 U+1F1F8	🇱🇸	莱索托	旗
+2501	U+1F1F1 U+1F1F9	🇱🇹	立陶宛	旗
+2502	U+1F1F1 U+1F1FA	🇱🇺	卢森堡	旗
+2503	U+1F1F1 U+1F1FB	🇱🇻	拉脱维亚	旗
+2504	U+1F1F1 U+1F1FE	🇱🇾	利比亚	旗
+2505	U+1F1F2 U+1F1E6	🇲🇦	摩洛哥	旗
+2506	U+1F1F2 U+1F1E8	🇲🇨	摩纳哥	旗
+2507	U+1F1F2 U+1F1E9	🇲🇩	摩尔多瓦	旗
+2508	U+1F1F2 U+1F1EA	🇲🇪	黑山	旗
+2509	U+1F1F2 U+1F1EB	🇲🇫	圣马丁	旗
+2510	U+1F1F2 U+1F1EC	🇲🇬	马达加斯加	旗
+2511	U+1F1F2 U+1F1ED	🇲🇭	马绍尔群岛	旗
+2512	U+1F1F2 U+1F1F0	🇲🇰	马其顿	旗
+2513	U+1F1F2 U+1F1F1	🇲🇱	马里	旗
+2514	U+1F1F2 U+1F1F2	🇲🇲	缅甸	旗
+2515	U+1F1F2 U+1F1F3	🇲🇳	蒙古	旗
+2516	U+1F1F2 U+1F1F4	🇲🇴	澳门特区中国	旗
+2517	U+1F1F2 U+1F1F5	🇲🇵	北马里亚纳群岛	旗
+2518	U+1F1F2 U+1F1F6	🇲🇶	马提尼克	旗
+2519	U+1F1F2 U+1F1F7	🇲🇷	毛里塔尼亚	旗
+2520	U+1F1F2 U+1F1F8	🇲🇸	蒙特塞拉特	旗
+2521	U+1F1F2 U+1F1F9	🇲🇹	马耳他	旗
+2522	U+1F1F2 U+1F1FA	🇲🇺	毛里求斯	旗
+2523	U+1F1F2 U+1F1FB	🇲🇻	马尔代夫	旗
+2524	U+1F1F2 U+1F1FC	🇲🇼	马拉维	旗
+2525	U+1F1F2 U+1F1FD	🇲🇽	墨西哥	旗
+2526	U+1F1F2 U+1F1FE	🇲🇾	马来西亚	旗
+2527	U+1F1F2 U+1F1FF	🇲🇿	莫桑比克	旗
+2528	U+1F1F3 U+1F1E6	🇳🇦	纳米比亚	旗
+2529	U+1F1F3 U+1F1E8	🇳🇨	新喀里多尼亚	旗
+2530	U+1F1F3 U+1F1EA	🇳🇪	尼日尔	旗
+2531	U+1F1F3 U+1F1EB	🇳🇫	诺福克岛	旗
+2532	U+1F1F3 U+1F1EC	🇳🇬	尼日利亚	旗
+2533	U+1F1F3 U+1F1EE	🇳🇮	尼加拉瓜	旗
+2534	U+1F1F3 U+1F1F1	🇳🇱	荷兰	旗
+2535	U+1F1F3 U+1F1F4	🇳🇴	挪威	旗
+2536	U+1F1F3 U+1F1F5	🇳🇵	尼泊尔	旗
+2537	U+1F1F3 U+1F1F7	🇳🇷	瑙鲁	旗
+2538	U+1F1F3 U+1F1FA	🇳🇺	纽埃	旗
+2539	U+1F1F3 U+1F1FF	🇳🇿	新西兰	旗
+2540	U+1F1F4 U+1F1F2	🇴🇲	阿曼	旗
+2541	U+1F1F5 U+1F1E6	🇵🇦	巴拿马	旗
+2542	U+1F1F5 U+1F1EA	🇵🇪	秘鲁	旗
+2543	U+1F1F5 U+1F1EB	🇵🇫	法属波利尼西亚	旗
+2544	U+1F1F5 U+1F1EC	🇵🇬	巴布亚新几内亚	旗
+2545	U+1F1F5 U+1F1ED	🇵🇭	菲律宾	旗
+2546	U+1F1F5 U+1F1F0	🇵🇰	巴基斯坦	旗
+2547	U+1F1F5 U+1F1F1	🇵🇱	波兰	旗
+2548	U+1F1F5 U+1F1F2	🇵🇲	圣皮埃尔和密克隆	旗
+2549	U+1F1F5 U+1F1F3	🇵🇳	皮特凯恩群岛	旗
+2550	U+1F1F5 U+1F1F7	🇵🇷	波多黎各	旗
+2551	U+1F1F5 U+1F1F8	🇵🇸	巴勒斯坦领土	旗
+2552	U+1F1F5 U+1F1F9	🇵🇹	葡萄牙	旗
+2553	U+1F1F5 U+1F1FC	🇵🇼	帕劳	旗
+2554	U+1F1F5 U+1F1FE	🇵🇾	巴拉圭	旗
+2555	U+1F1F6 U+1F1E6	🇶🇦	卡塔尔	旗
+2556	U+1F1F7 U+1F1EA	🇷🇪	留尼旺岛	旗
+2557	U+1F1F7 U+1F1F4	🇷🇴	罗马尼亚	旗
+2558	U+1F1F7 U+1F1F8	🇷🇸	塞尔维亚	旗
+2559	U+1F1F7 U+1F1FA	🇷🇺	俄罗斯	旗
+2560	U+1F1F7 U+1F1FC	🇷🇼	卢旺达	旗
+2561	U+1F1F8 U+1F1E6	🇸🇦	沙特阿拉伯	旗
+2562	U+1F1F8 U+1F1E7	🇸🇧	所罗门群岛	旗
+2563	U+1F1F8 U+1F1E8	🇸🇨	塞舌尔	旗
+2564	U+1F1F8 U+1F1E9	🇸🇩	苏丹	旗
+2565	U+1F1F8 U+1F1EA	🇸🇪	瑞典	旗
+2566	U+1F1F8 U+1F1EC	🇸🇬	新加坡	旗
+2567	U+1F1F8 U+1F1ED	🇸🇭	圣赫勒拿岛	旗
+2568	U+1F1F8 U+1F1EE	🇸🇮	斯洛文尼亚	旗
+2569	U+1F1F8 U+1F1EF	🇸🇯	斯瓦尔巴和扬马延	旗
+2570	U+1F1F8 U+1F1F0	🇸🇰	斯洛伐克	旗
+2571	U+1F1F8 U+1F1F1	🇸🇱	塞拉利昂	旗
+2572	U+1F1F8 U+1F1F2	🇸🇲	圣马力诺	旗
+2573	U+1F1F8 U+1F1F3	🇸🇳	塞内加尔	旗
+2574	U+1F1F8 U+1F1F4	🇸🇴	索马里	旗
+2575	U+1F1F8 U+1F1F7	🇸🇷	苏里南	旗
+2576	U+1F1F8 U+1F1F8	🇸🇸	南苏丹	旗
+2577	U+1F1F8 U+1F1F9	🇸🇹	圣多美和普林西比	旗
+2578	U+1F1F8 U+1F1FB	🇸🇻	萨尔瓦多	旗
+2579	U+1F1F8 U+1F1FD	🇸🇽	圣马丁岛	旗
+2580	U+1F1F8 U+1F1FE	🇸🇾	叙利亚	旗
+2581	U+1F1F8 U+1F1FF	🇸🇿	斯威士兰	旗
+2582	U+1F1F9 U+1F1E6	🇹🇦	特里斯坦达库尼亚	旗
+2583	U+1F1F9 U+1F1E8	🇹🇨	特克斯和凯科斯群岛	旗
+2584	U+1F1F9 U+1F1E9	🇹🇩	乍得	旗
+2585	U+1F1F9 U+1F1EB	🇹🇫	法属南部领土	旗
+2586	U+1F1F9 U+1F1EC	🇹🇬	多哥	旗
+2587	U+1F1F9 U+1F1ED	🇹🇭	泰国	旗
+2588	U+1F1F9 U+1F1EF	🇹🇯	塔吉克斯坦	旗
+2589	U+1F1F9 U+1F1F0	🇹🇰	托克劳	旗
+2590	U+1F1F9 U+1F1F1	🇹🇱	东帝汶	旗
+2591	U+1F1F9 U+1F1F2	🇹🇲	土库曼斯坦	旗
+2592	U+1F1F9 U+1F1F3	🇹🇳	突尼斯	旗
+2593	U+1F1F9 U+1F1F4	🇹🇴	汤加	旗
+2594	U+1F1F9 U+1F1F7	🇹🇷	土耳其	旗
+2595	U+1F1F9 U+1F1F9	🇹🇹	特立尼达和多巴哥	旗
+2596	U+1F1F9 U+1F1FB	🇹🇻	图瓦卢	旗
+2597	U+1F1F9 U+1F1FC	🇹🇼	台湾	旗
+2598	U+1F1F9 U+1F1FF	🇹🇿	坦桑尼亚	旗
+2599	U+1F1FA U+1F1E6	🇺🇦	乌克兰	旗
+2600	U+1F1FA U+1F1EC	🇺🇬	乌干达	旗
+2601	U+1F1FA U+1F1F2	🇺🇲	美国离岛	旗
+2602	U+1F1FA U+1F1F3	🇺🇳	联合国	旗
+2603	U+1F1FA U+1F1F8	🇺🇸	美国	旗
+2604	U+1F1FA U+1F1FE	🇺🇾	乌拉圭	旗
+2605	U+1F1FA U+1F1FF	🇺🇿	乌兹别克斯坦	旗
+2606	U+1F1FB U+1F1E6	🇻🇦	梵蒂冈城	旗
+2607	U+1F1FB U+1F1E8	🇻🇨	圣文森特和格林纳丁斯	旗
+2608	U+1F1FB U+1F1EA	🇻🇪	委内瑞拉	旗
+2609	U+1F1FB U+1F1EC	🇻🇬	英属维尔京群岛	旗
+2610	U+1F1FB U+1F1EE	🇻🇮	美属维尔京群岛	旗
+2611	U+1F1FB U+1F1F3	🇻🇳	越南	旗
+2612	U+1F1FB U+1F1FA	🇻🇺	瓦努阿图	旗
+2613	U+1F1FC U+1F1EB	🇼🇫	瓦利斯和富图纳群岛	旗
+2614	U+1F1FC U+1F1F8	🇼🇸	萨摩亚	旗
+2615	U+1F1FD U+1F1F0	🇽🇰	科索沃	旗
+2616	U+1F1FE U+1F1EA	🇾🇪	也门	旗
+2617	U+1F1FE U+1F1F9	🇾🇹	马约特	旗
+2618	U+1F1FF U+1F1E6	🇿🇦	南非	旗
+2619	U+1F1FF U+1F1F2	🇿🇲	赞比亚	旗
+2620	U+1F1FF U+1F1FC	🇿🇼	津巴布韦	旗
+2621	U+1F3F4 U+E0067 U+E0062 U+E0065 U+E006E U+E0067 U+E007F	🏴󠁧󠁢󠁥󠁮󠁧󠁿	英格兰	旗
+2622	U+1F3F4 U+E0067 U+E0062 U+E0073 U+E0063 U+E0074 U+E007F	🏴󠁧󠁢󠁳󠁣󠁴󠁿	苏格兰	旗
+2623	U+1F3F4 U+E0067 U+E0062 U+E0077 U+E006C U+E0073 U+E007F	🏴󠁧󠁢󠁷󠁬󠁳󠁿	威尔士	旗
