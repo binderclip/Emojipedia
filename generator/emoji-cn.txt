@@ -1851,69 +1851,69 @@
 1851	U+1F6BD	🚽	toilet	toilet
 1852	U+1F6BF	🚿	shower	water
 1853	U+1F6C1	🛁	bathtub	bath
-1854	U+231B	⌛	hourglass	sand | timer
-1855	U+23F3	⏳	hourglass with flowing sand	hourglass | sand | timer
-1856	U+231A	⌚	watch	clock
-1857	U+23F0	⏰	alarm clock	alarm | clock
-1858	U+23F1	⏱	stopwatch	clock
-1859	U+23F2	⏲	timer clock	clock | timer
-1860	U+1F570	🕰	mantelpiece clock	clock
-1861	U+1F55B	🕛	twelve o’clock	00 | 12 | 12:00 | clock | o’clock | twelve
-1862	U+1F567	🕧	twelve-thirty	12 | 12:30 | 30 | clock | thirty | twelve
-1863	U+1F550	🕐	one o’clock	00 | 1 | 1:00 | clock | one | o’clock
-1864	U+1F55C	🕜	one-thirty	1 | 1:30 | 30 | clock | one | thirty
-1865	U+1F551	🕑	two o’clock	00 | 2 | 2:00 | clock | o’clock | two
-1866	U+1F55D	🕝	two-thirty	2 | 2:30 | 30 | clock | thirty | two
-1867	U+1F552	🕒	three o’clock	00 | 3 | 3:00 | clock | o’clock | three
-1868	U+1F55E	🕞	three-thirty	3 | 30 | 3:30 | clock | thirty | three
-1869	U+1F553	🕓	four o’clock	00 | 4 | 4:00 | clock | four | o’clock
-1870	U+1F55F	🕟	four-thirty	30 | 4 | 4:30 | clock | four | thirty
-1871	U+1F554	🕔	five o’clock	00 | 5 | 5:00 | clock | five | o’clock
-1872	U+1F560	🕠	five-thirty	30 | 5 | 5:30 | clock | five | thirty
-1873	U+1F555	🕕	six o’clock	00 | 6 | 6:00 | clock | o’clock | six
-1874	U+1F561	🕡	six-thirty	30 | 6 | 6:30 | clock | six | thirty
-1875	U+1F556	🕖	seven o’clock	00 | 7 | 7:00 | clock | o’clock | seven
-1876	U+1F562	🕢	seven-thirty	30 | 7 | 7:30 | clock | seven | thirty
-1877	U+1F557	🕗	eight o’clock	00 | 8 | 8:00 | clock | eight | o’clock
-1878	U+1F563	🕣	eight-thirty	30 | 8 | 8:30 | clock | eight | thirty
-1879	U+1F558	🕘	nine o’clock	00 | 9 | 9:00 | clock | nine | o’clock
-1880	U+1F564	🕤	nine-thirty	30 | 9 | 9:30 | clock | nine | thirty
-1881	U+1F559	🕙	ten o’clock	00 | 10 | 10:00 | clock | o’clock | ten
-1882	U+1F565	🕥	ten-thirty	10 | 10:30 | 30 | clock | ten | thirty
-1883	U+1F55A	🕚	eleven o’clock	00 | 11 | 11:00 | clock | eleven | o’clock
-1884	U+1F566	🕦	eleven-thirty	11 | 11:30 | 30 | clock | eleven | thirty
-1885	U+1F311	🌑	new moon	dark | moon
-1886	U+1F312	🌒	waxing crescent moon	crescent | moon | waxing
-1887	U+1F313	🌓	first quarter moon	moon | quarter
-1888	U+1F314	🌔	waxing gibbous moon	gibbous | moon | waxing
-1889	U+1F315	🌕	full moon	full | moon
-1890	U+1F316	🌖	waning gibbous moon	gibbous | moon | waning
-1891	U+1F317	🌗	last quarter moon	moon | quarter
-1892	U+1F318	🌘	waning crescent moon	crescent | moon | waning
-1893	U+1F319	🌙	crescent moon	crescent | moon
-1894	U+1F31A	🌚	new moon 脸	脸 | moon
-1895	U+1F31B	🌛	first quarter moon with 脸	脸 | moon | quarter
-1896	U+1F31C	🌜	last quarter moon with 脸	脸 | moon | quarter
-1897	U+1F321	🌡	thermometer	weather
-1898	U+2600	☀	sun	bright | rays | sunny
-1899	U+1F31D	🌝	full moon with 脸	bright | 脸 | full | moon
-1900	U+1F31E	🌞	sun with 脸	bright | 脸 | sun
-1901	U+2B50	⭐	white medium star	star
-1902	U+1F31F	🌟	glowing star	glittery | glow | shining | sparkle | star
-1903	U+1F320	🌠	shooting star	falling | shooting | star
-1904	U+2601	☁	cloud	weather
-1905	U+26C5	⛅	sun behind cloud	cloud | sun
-1906	U+26C8	⛈	cloud with lightning and rain	cloud | rain | thunder
-1907	U+1F324	🌤	sun behind small cloud	cloud | sun
-1908	U+1F325	🌥	sun behind large cloud	cloud | sun
-1909	U+1F326	🌦	sun behind rain cloud	cloud | rain | sun
-1910	U+1F327	🌧	cloud with rain	cloud | rain
-1911	U+1F328	🌨	cloud with snow	cloud | cold | snow
-1912	U+1F329	🌩	cloud with lightning	cloud | lightning
-1913	U+1F32A	🌪	tornado	cloud | whirlwind
-1914	U+1F32B	🌫	fog	cloud
-1915	U+1F32C	🌬	wind 脸	blow | cloud | 脸 | wind
-1916	U+1F300	🌀	cyclone	dizzy | twister | typhoon
+1854	U+231B	⌛	沙漏	沙 | 定时器
+1855	U+23F3	⏳	正在流沙的沙漏	沙漏 | 沙 | 定时器
+1856	U+231A	⌚	手表	时钟
+1857	U+23F0	⏰	闹钟	时钟
+1858	U+23F1	⏱	秒表	时钟
+1859	U+23F2	⏲	定时器时钟	时钟 | 定时器
+1860	U+1F570	🕰	壁炉钟	时钟
+1861	U+1F55B	🕛	十二点	00 | 12 | 12:00 | 时钟 | 点 | 十二
+1862	U+1F567	🕧	十二点半	12 | 12:30 | 30 | 时钟 | 三十 | 十二
+1863	U+1F550	🕐	一点	00 | 1 | 1:00 | 时钟 | 一 | 点
+1864	U+1F55C	🕜	一点半	1 | 1:30 | 30 | 时钟 | 一 | 三十
+1865	U+1F551	🕑	两点	00 | 2 | 2:00 | 时钟 | 点 | 二
+1866	U+1F55D	🕝	两点半	2 | 2:30 | 30 | 时钟 | 三十 | 二
+1867	U+1F552	🕒	三点	00 | 3 | 3:00 | 时钟 | 点 | 三
+1868	U+1F55E	🕞	三点半	3 | 30 | 3:30 | 时钟 | 三十 | 三
+1869	U+1F553	🕓	四点	00 | 4 | 4:00 | 时钟 | 四 | 点
+1870	U+1F55F	🕟	四点半	30 | 4 | 4:30 | 时钟 | 四 | 三十
+1871	U+1F554	🕔	五点	00 | 5 | 5:00 | 时钟 | 五 | 点
+1872	U+1F560	🕠	五点半	30 | 5 | 5:30 | 时钟 | 五 | 三十
+1873	U+1F555	🕕	六点	00 | 6 | 6:00 | 时钟 | 点 | 六
+1874	U+1F561	🕡	六点半	30 | 6 | 6:30 | 时钟 | 六 | 三十
+1875	U+1F556	🕖	七点	00 | 7 | 7:00 | 时钟 | 点 | 七
+1876	U+1F562	🕢	七点半	30 | 7 | 7:30 | 时钟 | 七 | 三十
+1877	U+1F557	🕗	八点	00 | 8 | 8:00 | 时钟 | 八 | 点
+1878	U+1F563	🕣	八点半	30 | 8 | 8:30 | 时钟 | 八 | 三十
+1879	U+1F558	🕘	九点	00 | 9 | 9:00 | 时钟 | 九 | 点
+1880	U+1F564	🕤	九点半	30 | 9 | 9:30 | 时钟 | 九 | 三十
+1881	U+1F559	🕙	十点	00 | 10 | 10:00 | 时钟 | 点 | 十
+1882	U+1F565	🕥	十点半	10 | 10:30 | 30 | 时钟 | 十 | 三十
+1883	U+1F55A	🕚	十一点	00 | 11 | 11:00 | 时钟 | 十一 | 点
+1884	U+1F566	🕦	十一点半	11 | 11:30 | 30 | 时钟 | 十一 | 三十
+1885	U+1F311	🌑	新月	黑暗 | 月
+1886	U+1F312	🌒	蛾眉月	新月 | 月 | 盈
+1887	U+1F313	🌓	上弦月	月 | 四分之一
+1888	U+1F314	🌔	盈凸月	凸 | 月 | 盈
+1889	U+1F315	🌕	满月	满 | 月
+1890	U+1F316	🌖	亏凸月	凸 | 月 | 亏
+1891	U+1F317	🌗	下弦月	月 | 四分之一
+1892	U+1F318	🌘	残月	新月 | 月 | 亏
+1893	U+1F319	🌙	新月	新月 | 月
+1894	U+1F31A	🌚	新月脸	脸 | 月
+1895	U+1F31B	🌛	上弦月脸	脸 | 月 | 四分之一
+1896	U+1F31C	🌜	上弦月脸	脸 | 月 | 四分之一
+1897	U+1F321	🌡	温度计	天气
+1898	U+2600	☀	阳光灿烂 | 阳光 | 晴朗
+1899	U+1F31D	🌝	满月脸	亮 | 脸 | 满 | 月
+1900	U+1F31E	🌞	太阳脸	亮 | 脸 | 太阳
+1901	U+2B50	⭐	白中星	星星
+1902	U+1F31F	🌟	发光的明星	发光 | 闪亮 | 闪烁 | 星星
+1903	U+1F320	🌠	流星	坠落 | 发射 | 星星
+1904	U+2601	☁	云	天气
+1905	U+26C5	⛅	晴间多云	天气 | 阴天 | 多云 | 云 | 太阳
+1906	U+26C8	⛈	雷雨	天气 | 云 | 雨 | 雷
+1907	U+1F324	🌤	多晴少云	天气 | 云 | 太阳
+1908	U+1F325	🌥	多云少晴	天气 | 云 | 太阳
+1909	U+1F326	🌦	阵雨	天气 | 雨 | 云 | 太阳
+1910	U+1F327	🌧	下雨	天气 | 雨 | 云
+1911	U+1F328	🌨	下雪	天气 | 云 | 雪 | 冷
+1912	U+1F329	🌩	打雷	天气 | 云 | 雷
+1913	U+1F32A	🌪	龙卷风	天气 | 云 | 旋风
+1914	U+1F32B	🌫	雾	天气 | 雾霾
+1915	U+1F32C	🌬	吹风脸	吹 | 风 | 脸
+1916	U+1F300	🌀	龙卷风	头晕 | twister | typhoon
 1917	U+1F308	🌈	rainbow	rain
 1918	U+1F302	🌂	闭 umbrella	clothing | rain | umbrella
 1919	U+2602	☂	umbrella	clothing | rain
